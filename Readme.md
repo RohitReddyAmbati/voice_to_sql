@@ -1,6 +1,8 @@
+**NOTE:** 
 After cloning the Repository make sure to create your own branch with your name and commit changes to it.
+For intal steps we are going with cloths and accessories dataset, but we have to update the project in a way to handel any type of data. and should be a plug and play thing.
 
-Project stages:
+**Project stages:**
 Step 1:
 a) RAG -> input text, output info based on tabluar data in sql
 b) optimization to get more accurate and reliable results( multiple iterations)
@@ -13,6 +15,6 @@ Step 3:
 a) voice to text and text to voice too.
 b) website creation and hosting
 
-Project Planning
+**Project Planning**
 
 TBD
