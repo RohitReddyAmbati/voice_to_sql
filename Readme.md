@@ -1,6 +1,6 @@
 **NOTE:** 
 After cloning the Repository make sure to create your own branch with your name and commit changes to it.
-For intal steps we are going with cloths and accessories dataset, but we have to update the project in a way to handel any type of data. and should be a plug and play thing.
+For intal steps we are going with clothes and accessories dataset, but we have to update the project in a way to handle any type of data. and should be a plug and play thing.
 
 **Project stages:**
 Step 1:
