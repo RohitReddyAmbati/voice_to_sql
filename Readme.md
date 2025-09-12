@@ -108,7 +108,7 @@ Environment variables (set in `.env` or export):
 | `VOICE_SECONDS`  | 8          | Recording length in seconds |
 | `VOICE_SR`       | 16000      | Audio sample rate |
 | `VOICE_TTS`      | 1          | Enable text-to-speech (0 = off) |
-| `FW_MODEL`       | small      | Faster-Whisper model size (`tiny`, `base`, `small`, `medium`, `large-v3`) |
+| `FW_MODEL`       | large-v3   | Faster-Whisper model size (`tiny`, `base`, `small`, `medium`, `large-v3`) |
 | `FW_DEVICE`      | cpu        | Device (`cpu` or `cuda`) |
 | `FW_COMPUTE`     | int8       | Compute precision (`int8`, `int8_float32`, `float16`, `float32`) |
 
