@@ -180,8 +180,7 @@ pip install black flake8 pytest
 ---
 
 ## 🌟 Future Improvements
-
-- [ ] Switch to **GGUF Whisper models** for better performance  
+  
 - [ ] Add **Dockerfile** for portable deployment  
 - [ ] Web UI with **Streamlit** (instead of CLI)  
 - [ ] Multi-database switching at runtime  
